@@ -1,9 +1,9 @@
 ### Hello there 👋, I'm Quang Minh.
 
 <a href="https://github.com/quangmnh">
-  <img align="left" alt="Github" width="22px" src="https://pics.freeicons.io/uploads/icons/png/13702699181561032680-512.png" />
+  <img align="left" alt="github" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16472142071530099325-512.png" />
 </a>
-<a href="https://www.linkedin.com/in/quangminhnt/ ">
+<a href="https://www.linkedin.com/in/quangminhnt/">
   <img align="left" alt="linkedin" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />
 </a>
 <a href="https://www.facebook.com/quangminh.nguyentran.79/">
