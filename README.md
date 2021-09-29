@@ -13,9 +13,13 @@
   <img align="left" alt="twitter" width="22px" src="https://pics.freeicons.io/uploads/icons/png/5959933821530099343-512.png" />
 </a>
 
-<br />
-<br />
+<br/><br/>
+<img style="float" align = "left" src="https://github-readme-stats.vercel.app/api?username=quangmnh&count_private=true&show_icons=true&theme=cobalt" alt="quangmnh" />
+<img style="float" align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangmnh&show_icons=true&theme=cobalt" alt="quangmnh" />
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
+
+### About me
 - :man_student: Im a Computer Engineering student.
 - :writing_hand: I'm writing my Undergraduate Thesis at HCMUT.
 - :musical_score: I love music, every genres you can think of.
@@ -25,4 +29,3 @@
 - I can make PCBs and have experience working with sensors.
 - I'm good at C and Python <img align="left" alt="C" width="22px" src="https://pics.freeicons.io/uploads/icons/png/20395100751536130227-512.png" /><img align="left" alt="python" width="22px" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png"/>
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=quangmnh&count_private=true&show_icons=true" alt="quangmnh" />
