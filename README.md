@@ -27,6 +27,7 @@
 - :headphones: 	My thesis is about music too hehe. :control_knobs: :level_slider: 
 - :cherries: I can do projects involving Embedded devices. :orange: 	:strawberry: 	:grapes:
 - I can make PCBs and have experience working with sensors.
+- I can make 3D models to some extends.
 - I'm good at C and Python <img align="left" alt="C" width="22px" src="https://pics.freeicons.io/uploads/icons/png/20395100751536130227-512.png" /><img align="left" alt="python" width="22px" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png"/>
 - Reach me at: minh.nguyenfunie1010@hcmut.edu.vn
  
