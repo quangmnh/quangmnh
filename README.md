@@ -15,7 +15,7 @@
 
 <br/><br/>
 <img style="float" align = "left" src="https://github-readme-stats.vercel.app/api?username=quangmnh&count_private=true&show_icons=true&theme=cobalt" alt="quangmnh" />
-<img style="float" align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangmnh&show_icons=true&theme=cobalt&exclude_repo=Self-balancing-car-Embedded-System-HCMUT-202,Fail-Attemps-Creating-An-Android-Studio-Project,assignment02-backend-fw,Web-design-HCMUT-202,BKI2021-ABC" alt="quangmnh" />
+<img style="float" align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangmnh&show_icons=true&theme=cobalt&exclude_repo=Self-balancing-car-Embedded-System-HCMUT-202,Fail-Attemps-Creating-An-Android-Studio-Project,assignment02-backend-fw,Web-design-HCMUT-202,BKI2021-ABC&hide=html,tex" alt="quangmnh" />
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
